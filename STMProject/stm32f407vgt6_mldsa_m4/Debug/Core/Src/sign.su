@@ -1,0 +1,5 @@
+../Core/Src/sign.c:22:5:crypto_sign_keypair	37064	static
+../Core/Src/sign.c:85:5:crypto_sign_signature	50680	static
+../Core/Src/sign.c:290:5:crypto_sign	32	static
+../Core/Src/sign.c:319:5:crypto_sign_verify	34952	static
+../Core/Src/sign.c:401:5:crypto_sign_open	32	static

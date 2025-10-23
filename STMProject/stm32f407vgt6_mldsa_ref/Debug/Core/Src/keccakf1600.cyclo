@@ -1,0 +1,3 @@
+../Core/Src/keccakf1600.c:43:6:KeccakF1600_StateExtractBytes	3
+../Core/Src/keccakf1600.c:52:6:KeccakF1600_StateXORBytes	3
+../Core/Src/keccakf1600.c:61:6:KeccakF1600_StatePermute	2

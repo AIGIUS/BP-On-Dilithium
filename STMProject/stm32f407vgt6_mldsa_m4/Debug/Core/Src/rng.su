@@ -1,0 +1,3 @@
+../Core/Src/rng.c:15:6:lfsr_update_state	0	static
+../Core/Src/rng.c:25:1:randombytes_init	0	static
+../Core/Src/rng.c:32:1:randombytes	4	static

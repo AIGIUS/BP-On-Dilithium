@@ -1,0 +1,4 @@
+../Core/Src/reduce.c:15:9:PQCLEAN_MLDSA44_CLEAN_montgomery_reduce	1
+../Core/Src/reduce.c:33:9:PQCLEAN_MLDSA44_CLEAN_reduce32	1
+../Core/Src/reduce.c:50:9:PQCLEAN_MLDSA44_CLEAN_caddq	1
+../Core/Src/reduce.c:65:9:PQCLEAN_MLDSA44_CLEAN_freeze	1

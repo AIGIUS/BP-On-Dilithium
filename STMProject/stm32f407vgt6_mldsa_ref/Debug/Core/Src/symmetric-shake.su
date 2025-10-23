@@ -1,0 +1,2 @@
+../Core/Src/symmetric-shake.c:6:6:PQCLEAN_MLDSA44_CLEAN_dilithium_shake128_stream_init	24	static
+../Core/Src/symmetric-shake.c:17:6:PQCLEAN_MLDSA44_CLEAN_dilithium_shake256_stream_init	24	static

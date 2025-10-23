@@ -1,0 +1,6 @@
+../Core/Src/packing.c:15:6:pqcrystals_dilithium_pack_pk	16	static
+../Core/Src/packing.c:38:6:pqcrystals_dilithium_unpack_pk	16	static
+../Core/Src/packing.c:65:6:pqcrystals_dilithium_pack_sk	24	static
+../Core/Src/packing.c:112:6:pqcrystals_dilithium_unpack_sk	24	static
+../Core/Src/packing.c:156:6:pqcrystals_dilithium_pack_sig	24	static
+../Core/Src/packing.c:198:5:pqcrystals_dilithium_unpack_sig	32	static

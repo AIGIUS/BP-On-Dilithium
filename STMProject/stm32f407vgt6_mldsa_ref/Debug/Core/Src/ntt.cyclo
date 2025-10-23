@@ -1,0 +1,2 @@
+../Core/Src/ntt.c:49:6:PQCLEAN_MLDSA44_CLEAN_ntt	4
+../Core/Src/ntt.c:77:6:PQCLEAN_MLDSA44_CLEAN_invntt_tomont	6
